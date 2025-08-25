@@ -1,0 +1,49 @@
+{
+  "start_time": "2025-08-25T07:01:24.692112",
+  "device_info": {
+    "name": "BrainBit",
+    "address": "D7D0944A-160C-A534-607F-DA77C6967F23",
+    "connected": true,
+    "battery_level": 85,
+    "signal_quality": "good"
+  },
+  "session_id": "session_1756105284",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "filename": "session_1756105284_chunk_001.json",
+      "start_time": "2025-08-25T07:01:24.692280",
+      "end_time": "2025-08-25T07:03:21.116553",
+      "sample_count": 1001,
+      "file_size": 1215988
+    },
+    {
+      "chunk_id": 2,
+      "filename": "session_1756105284_chunk_002.json",
+      "start_time": "2025-08-25T07:03:21.116630",
+      "end_time": "2025-08-25T07:05:16.969538",
+      "sample_count": 1001,
+      "file_size": 1215952
+    },
+    {
+      "chunk_id": 3,
+      "filename": "session_1756105284_chunk_003.json",
+      "start_time": "2025-08-25T07:05:16.969616",
+      "end_time": "2025-08-25T07:07:12.654010",
+      "sample_count": 1001,
+      "file_size": 1216257
+    },
+    {
+      "chunk_id": 4,
+      "filename": "session_1756105284_chunk_004.json",
+      "start_time": "2025-08-25T07:07:12.654080",
+      "end_time": "2025-08-25T07:07:28.752953",
+      "sample_count": 139,
+      "file_size": 169209
+    }
+  ],
+  "end_time": "2025-08-25T07:07:28.753067",
+  "total_chunks": 4,
+  "total_samples": 3142,
+  "duration_seconds": 364.060955
+}
